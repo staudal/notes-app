@@ -1,0 +1,11 @@
+[contenteditable] {
+  outline: 0px solid transparent;
+}
+
+[contenteditable] b {
+  font-weight: normal;
+}
+
+[contenteditable] i {
+  font-style: normal;
+}

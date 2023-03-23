@@ -1,0 +1,22 @@
+.list-group-item {
+  border-right: 0 !important;
+  border-top: 0 !important;
+  border-left: 0 !important;
+  border-radius: 0 !important;
+  border-bottom: 1px solid #e5e5e5 !important;
+  padding: 16px !important;
+  max-width: 350px;
+  width: 350px;
+  min-width: 350px;
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.list-group-item:last-of-type {
+  margin-bottom: 20px;
+}
